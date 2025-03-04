@@ -14,9 +14,6 @@ Microsoft Excel: Used for data processing and visualization.
 Pivot Tables & Charts: For data aggregation and analysis.
 Slicers & Filters: Enable dynamic interactivity in the dashboard.
 
-📂 Dataset:
-
-
 🎯 Purpose
 This dashboard is designed for business intelligence and sales analytics, allowing companies to:
 Identify key customer segments.
